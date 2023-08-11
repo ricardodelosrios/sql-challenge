@@ -8,15 +8,25 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ## Folders and files
 
-* It is going to find 2 folders in this project. The folder called `Images` will find a file called [QuickDBD-Powlett Hackard](https://www.quickdatabasediagrams.com/](https://github.com/ricardodelosrios/sql-challenge/blob/main/Images/QuickDBD-Pewlett%20Hackard.png)). 
-* On the other hand, the folder called `Resources` will find 6 CSV files that were used to complete this challenge. Listed below are the names of the files you will find:
+* It is going to find **2 folders** in this project:
 
-`Departments.csv`
-`dept_emp.csv`
-`dept_manager.csv`
-`employees.csv`
-`salaries.csv`
-`titles.csv`
+    * The folder called `Images` will find a file called [QuickDBD-Powlett Hackard](https://www.quickdatabasediagrams.com/](https://github.com/ricardodelosrios/sql-challenge/blob/main/Images/QuickDBD-Pewlett%20Hackard.png)).
+  
+    * The folder called `Resources` will find 6 CSV files that were used to complete this challenge. Listed below are the names of the files you will find:
+
+      * [Departments.csv](https://github.com/ricardodelosrios/sql-challenge/blob/main/Resources/Departments.csv)
+      * [dept_emp.csv](https://github.com/ricardodelosrios/sql-challenge/blob/main/Resources/dept_emp.csv)
+      * [dept_manager.csv](https://github.com/ricardodelosrios/sql-challenge/blob/main/Resources/dept_manager.csv)
+      * [employees.csv](https://github.com/ricardodelosrios/sql-challenge/blob/main/Resources/employees.csv)
+      * [salaries.csv](https://github.com/ricardodelosrios/sql-challenge/blob/main/Resources/salaries.csv)
+      * [titles.csv](https://github.com/ricardodelosrios/sql-challenge/blob/main/Resources/titles.csv)
+
+* It will find **4 Files** in this project:
+  
+    * [Schema Powlett_Hackard.sql](https://github.com/ricardodelosrios/sql-challenge/blob/main/Schema%20Powlett_Hackard.sql): There is a schema that was built in Quick Database Diagram.
+    * [Queries_Powlett_Hackard.sql](https://github.com/ricardodelosrios/sql-challenge/blob/main/Queries_Powlett_Hackard.sql): In this file are the queries to solve the questions. For this point it was used PostgreSQL.
+    * [Bonus_Powlett_Hackard.ipynb](https://github.com/ricardodelosrios/sql-challenge/blob/main/Bonus__Powlett_Hackard.ipynb): There is a Jupyter notebook of the analysis, where it used pandas and sqlalchemy libraries.
+    * [.gitignore](https://github.com/ricardodelosrios/sql-challenge/blob/main/.gitignore):In this file, it saved the password to access to PGAdmin and be able to create the connection with the sqlalchemy library.
 
 ## Data modeling
 
