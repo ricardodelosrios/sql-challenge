@@ -6,9 +6,10 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform `data modeling`, `data engineering`, and `data analysis`, respectively.
 
-## Resources
+## Folders and files
 
-There is a folder called `Resources` with 6 CSV files that were used to complete this challenge. Listed below are the names of the files you will find:
+* It is going to find 2 folders in this project. The folder called `Images` will find a file called [QuickDBD-Powlett Hackard](https://www.quickdatabasediagrams.com/](https://github.com/ricardodelosrios/sql-challenge/blob/main/Images/QuickDBD-Pewlett%20Hackard.png)). 
+* On the other hand, the folder called `Resources` will find 6 CSV files that were used to complete this challenge. Listed below are the names of the files you will find:
 
 `Departments.csv`
 `dept_emp.csv`
